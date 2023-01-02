@@ -1,0 +1,8 @@
+
+target 'BikeShare' do
+    pod 'common', :path => '../../common'
+end
+
+target 'BikeShareWidgetExtension' do
+    pod 'common', :path => '../../common'
+end
